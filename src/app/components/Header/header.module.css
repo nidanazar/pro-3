@@ -1,0 +1,13 @@
+.h1{
+    background-color: rgb(214, 239, 156);
+    color: #000;
+    text-align:left;
+    color: rgb(255 255 255);
+}
+.button{
+border-radius: 2px;
+background-color: rgb(37, 40, 210);
+justify-content: right;
+flex-direction: column;border-radius: 12px;
+margin: left 12px;;
+}
